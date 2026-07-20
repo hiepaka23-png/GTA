@@ -1,0 +1,8 @@
+{
+    "name": "GTA VI Locations Section",
+    "description": "A pixel-perfect cinematic static HTML and CSS clone of the full GTA VI landing page, including Trailer 2, Bento sections, and the footer propaganda newsletter.",
+    "requestFramePermissions": [],
+    "majorCapabilities": [
+        "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+    ]
+}
